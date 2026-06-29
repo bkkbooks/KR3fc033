@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc033/tls/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 開立方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc033.xml
+hash: sha256:7327f0b60d1335c8729b9b6a860b9451a58e71892e43e4956456231af11e9028

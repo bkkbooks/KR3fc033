@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc033/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 平亷七千二百三萬列立方籌左
+  hash: sha256:00e9c0506a9b5297b711a33d9a949e51c81939ad6e0c97206b6678d7ab219984
+metadata:
+  title: 開立方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc033.xml
+hash: sha256:804508be2e3a41f3428d83c6b212724b112504232c0abf148de5401f81d9c520

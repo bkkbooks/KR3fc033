@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR3fc033/tls/v1/markers/45
+seq: 45
+markers:
+  front: []
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR3fc033_tls_22a}
+  back: []
+hash: sha256:085e2c9ba555fd4e507c0409fbc84a0c807f7490ae423d4d4360adfdd80eccb3

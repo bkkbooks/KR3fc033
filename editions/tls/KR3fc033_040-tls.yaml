@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc033/tls/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 列于後平立方俱可通用餘實更加三空得餘分三千五十七萬以前啇二百九自乘爲平廉面四萬三六八一三倍之得一十三萬一四三爲平廉法取一三一四三籌列立方籌左長亷六百二十七以前啇二百九三倍之得六百二七自乘數四十爲長廉法取六二七籌列立方籌右次于列籌內并數取其近少于餘實者至第二格遇二六二八六八爲約數另列之次向右二格內自乘數取四十乘長廉法六百二七得二萬五千八十并約數得一千六百二十三萬三六八八除實未盡得立方根二百九又一十分分之二餘實四百三十三萬六千此四開不成方之餘實也更加三空得三百一十二四十三億三千六百三十一萬二千
+  hash: sha256:bcd3f4db25fedd1ebfde24482376db6dcb3b170d049d415c8afe8ee9f34a0252
+metadata:
+  title: 開立方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc033.xml
+hash: sha256:d6d7a04f0c89b0f9d9736a2dc6c5c15cb0f7ab603366c20ba7cd117e933c0c9d
